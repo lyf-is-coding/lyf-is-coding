@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Lyf 😊</h1>
+<h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lyf 😊</h1>
 
 <h3> Languages and Tools </h3>
 <img align="left" alt="Visual Studio" width="44px" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg"/>
