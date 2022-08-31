@@ -1,10 +1,10 @@
 ### Hi there 👋,
 ![](https://komarev.com/ghpvc/?username=lyf-is-coding&color=dc143c&style=flat-square&color=70a5fd)
 
-<a href="">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyf-is-coding&show_icons=true&theme=tokyonight&hide=issues&count_private=true&disable_animations=true&hide_rank=true&show_icons=true&custom_title=GitHub%20Stats&line_height=24" />
 </a>
-<a href="">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyf-is-coding&theme=tokyonight" />
 </a>
 
