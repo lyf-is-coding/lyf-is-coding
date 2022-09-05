@@ -5,7 +5,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/lyf-is-coding">
-        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=lyf-is-coding&show_icons=true&theme=tokyonight&hide=issues&count_private=true&disable_animations=true&hide_rank=true&show_icons=true&custom_title=GitHub%20Stats&line_height=24" />
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=lyf-is-coding&show_icons=true&theme=tokyonight&count_private=true&disable_animations=true&hide_rank=true&show_icons=true&custom_title=GitHub%20Stats" />
       </a>
     </td>
     <td align="center" style="padding=0;width=50%;">
